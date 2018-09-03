@@ -1,17 +1,11 @@
 # JavaBomberman
-The classic video game Bomberman programmed in Java
+The classic video game Bomberman programmed in Java. Created during my junior year of high school (Spring 2015) with [Kevin Chen](https://github.com/kevinbc0)
 
-Created during my junior year of high school (March - June 2015)
+**Edit from 2018** - This project has pretty terrible coding style (so much repeated code...) and isn't the most flushed-out product, but I'm still really proud of it. Completed after a year of coding, this project helped me see how much was really possible with programming and made me certain about my decision to go into computer science. 
 
-Sorry for the somewhat poor coding style and lack of comments, I'd be happy to show improvements to my style and skills in an interview or coding challenge :]
+### Demo: https://youtu.be/YGdzWEqJ800
 
-
-Description:
-
-Created the multiplayer video game Bomberman entirely in Java
-
-Programmed game mechanics such as power ups, basic movement, and precise hitbox detection
-
-Integrated graphical user interface, animation, and sound effects using JPanel, EventListeners, Timers, etc.
-
-Utilizes encapsulation and other OOP principles to save and relay information about blocks, players, bombs, etc.
+**Description:**
+- Programmed game mechanics such as power ups, basic movement, and precise hitbox detection
+- Integrated graphical user interface, animation, and sound effects using JPanel, EventListeners, Timers, etc.
+- Utilized encapsulation and other OOP principles to save and relay information about blocks, players, bombs, etc.
